@@ -1,0 +1,5 @@
+*.zip
+*.tar
+OtherLargeFolder/
+ScanNetV2/output/model/
+ModelNet40/output/model/
